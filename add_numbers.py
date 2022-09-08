@@ -1,5 +1,4 @@
 ans = 0
-
 while True:
     num = input('enter a number:')
     if num.isnumeric():
