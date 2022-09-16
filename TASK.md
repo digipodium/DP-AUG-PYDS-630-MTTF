@@ -9,3 +9,10 @@
 - salary > 20000, then da = 2.2 and hra 7%
 - salary > 10000, then da = 2.2 and hra 6%
 
+#### 16 sep 2022
+### Wap to create a numerical list of 10 values, taken from the user and then display
+- sum
+- mean
+- median
+- mode
+
