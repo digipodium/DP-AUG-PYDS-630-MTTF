@@ -16,3 +16,15 @@
 - median
 - mode
 
+#### 19 sep 2022
+
+### wap to create a list of 5 names taken from user and then display each name in reverse
+
+### wap to print a fibonacci series using the concept of list (0, 1, 1, 2, 3, 5, 8, 11...)
+
+### wap to generate a new list that contains sqaures of each numbers from existing list
+*ex* `x= [2,3,4,5]` => `[4,8,16,25]`
+
+### wap to generate a new list from an existing list of numbers that contains only odd numbers
+
+### wap to generate a  new list by adding 2 list elementwise
