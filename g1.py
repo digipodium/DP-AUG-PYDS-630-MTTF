@@ -12,11 +12,15 @@ def draw():
 def update():
     if keyboard.left:
         p.x -= 2
+        p.angle = 10
     elif keyboard.right:
         p.x += 2
+        p.angle = -10
     elif keyboard.up:
         p.y -= 2
     elif keyboard.down:
         p.y += 2
+    else:
+        p.angle =0
 pgzrun.go()
 
