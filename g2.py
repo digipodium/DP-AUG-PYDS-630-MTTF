@@ -12,7 +12,7 @@ speed = 5 # variable (global)
 def draw():
     screen.blit('bg', pos=(0,0))
     c.draw()
-    w.draw()
+    # w.draw()
     screen.draw.text("A Chicken Story", (10,10), color='red')
     screen.draw.text(f"Score: {score}", (900,10), color='red')
     cookie.draw()
