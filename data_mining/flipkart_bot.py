@@ -59,6 +59,6 @@ def main(query = 'tv'):
         pd.DataFrame(all_products).to_csv(f'flipkart_{query}_{time}.csv', index = False)
 
 if __name__ == '__main__':
-    main("mobiles")
+    main("tv")
 
     
