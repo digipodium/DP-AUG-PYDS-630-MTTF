@@ -48,7 +48,7 @@ def main(query = 'tv'):
             print('No data found')
             break
         items = get_products(soup)
-        if len(items) == 0:
+        if not items or len(items) == 0:
             break
         for item in items:
             data = extract_one(item)
